@@ -1,0 +1,58 @@
+{
+  "faction": "/r/AmericanFlagInPlace",
+  "notifications": "",
+  "contact": "https://discord.gg/afip",
+  "templates": [
+    {
+      "name": "United States ROAD TRIP Flag (23:48 23rd)",
+      "sources": [
+        "https://i.imgur.com/jWvcUBH.png"
+      ],
+      "x": 2273,
+      "y": 1780
+    },
+    {
+      "name": "United States SMALLER Flag (23:50 23rd)",
+      "sources": [
+        "https://i.imgur.com/DOqBzyd.png"
+      ],
+      "x": 1314,
+      "y": 1097
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "Terraria",
+      "url": "https://pastebin.com/raw/ecJyTU2E"
+    },
+    {
+      "name": "DeltaRune",
+      "url": "https://pastebin.com/raw/0C0n5YwK"
+    },
+    {
+      "name": "Star Wars",
+      "url": "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_afip.json"
+    },
+    {
+      "name": "France",
+      "url": "https://sayrix.github.io/PlaceFR/overlay.json"
+    },
+    {
+      "name": "PlaceEU",
+      "url": "https://raw.githubusercontent.com/Malormar/PlaceEU/main/template.json"
+    },
+    {
+      "name": "Ukraine",
+      "url": "https://ua.rocks/placeukraine.json"
+    },
+    {
+      "name": "Israel",
+      "url": "https://rentry.co/5xi894/raw"
+    },
+    {
+      "name": "UKplace",
+      "url": "https://placeuk.g3v.co.uk/template/ukplace"
+    }
+  ],
+  "blacklist": []
+}

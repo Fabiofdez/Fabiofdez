@@ -11,10 +11,12 @@
 <!-- ![Github Stats][statsUrl]
 ![Github langs][langsUrl] -->
 
-<div>
-  <img height="150" align="center" src="https://github-readme-stats-fabiofdez.vercel.app/api?username=fabiofdez&hide=stars&show_icons=true&theme=transparent&title_color=139a91&icon_color=0eaa74&border_color=139a919a" />
+<a href="https://github.com/Fabiofdez">
+  <img height="150" align="center"src="https://github-readme-stats-fabiofdez.vercel.app/api?username=fabiofdez&hide=stars&show_icons=true&theme=transparent&title_color=139a91&icon_color=0eaa74&border_color=139a919a" />
+</a>
+<a href="https://github.com/Fabiofdez">
   <img height="150" align="center" src="https://github-readme-stats-fabiofdez.vercel.app/api/top-langs/?username=fabiofdez&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&title_color=139a91&border_color=139a919a" />
-</div>
+</a>
 
 [reactBadge]: https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black
 [reactUrl]: https://react.dev/

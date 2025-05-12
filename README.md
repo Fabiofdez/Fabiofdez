@@ -4,7 +4,7 @@ I'm a software developer and UI/UX designer. Currently, I'm studying at Johns Ho
 
 In my free time, I love painting, playing bass, and listening to music, and have a special place in my heart for linguistics and language-learning.
 
-## Skills
+## Things I Code With
 
 [![reactBadge]][reactUrl]
 [![nextBadge]][nextUrl]
@@ -22,7 +22,7 @@ In my free time, I love painting, playing bass, and listening to music, and have
 <!-- ![Github Stats][statsUrl]
 ![Github langs][langsUrl] -->
 
-## My Stats & Used Languages
+## Stats & Stuff
 
 <div display="flex">
   <img flex="1" height="150" align="center" href="https://github.com/Fabiofdez" src="https://github-readme-stats-fabiofdez.vercel.app/api?username=fabiofdez&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats&rank_icon=github&show_icons=true&theme=transparent&title_color=139a91&icon_color=0eaa74&border_color=139a919a&border_radius=6" />

@@ -1,8 +1,14 @@
-### Hi, I'm Fabio Fernandez!
+### 👋 Hi, I'm Fabio Fernandez!
 
-I'm a software developer and UI/UX designer. Currently, I'm studying at Johns Hopkins University, pursuing a B.S. in Computer Science. As a programmer, I'm detail- and solution-oriented; always striving for perfection as well as capturing the full picture. I love a good opportunity to add to my tech stacks or expand my knowledge - after all, one never stops learning.
+I'm a front-end-focused software developer with a passion for UI/UX design and building polished, user-friendly interfaces. In 2025, I obtained my B.S. in Computer Science at Johns Hopkins University. 
 
-In my free time, I love painting, playing bass, and listening to music, and have a special place in my heart for linguistics and language-learning.
+As a programmer, I'm detail-oriented and pragmatic – always aiming for clean solutions without losing sight of the bigger picture. I primarily work with JavaScript/TypeScript, React, and Node.js, and love building responsive, accessible interfaces with thoughtful design systems. 
+
+I’m constantly learning and experimenting-whether it’s diving into a new framework, optimizing performance, or exploring creative ways to improve user interactions. I’ve led the front-end for several academic and personal projects and contributed to open-source along the way.
+
+Outside of tech, I enjoy painting, playing bass, and diving into languages – both spoken and visual. 🎨🎸🌍
+
+<!-- TODO: website link -->
 
 ## Things I Code With
 

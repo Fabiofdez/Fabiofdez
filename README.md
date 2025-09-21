@@ -6,7 +6,7 @@ As a programmer, I'm detail-oriented and pragmatic – always aiming for clean s
 
 I’m constantly learning and experimenting – whether it’s diving into a new framework, optimizing performance, or exploring creative ways to improve user interactions. While my focus is front-end, I’m fully comfortable working across the stack – from designing APIs in Node.js to integrating with backend services when needed. I’ve led the front-end for several academic and personal projects and contributed to open-source along the way.
 
-Outside of tech, I enjoy painting, playing bass, and diving into languages – both spoken and visual. 🎨🎸🌍
+Outside of tech, I enjoy painting, playing bass, learning languages, and studying linguistics. 🎨🎸🌍
 
 <!-- TODO: website link -->
 
